@@ -19,29 +19,17 @@
 ###
 
 <div align="left">
-  <a href="https://learn.microsoft.com/en-us/office/vba" target="_blank" rel="noreferrer">
-    <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/LinkNav-Microsoft-Excel-75x75?fmt=png-alpha" height="32" alt="excel logo" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" height="32" alt="dotnet logo" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="csharp logo" />
-    <img width="12" />
-  </a>
+  <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/LinkNav-Microsoft-Excel-75x75?fmt=png-alpha" height="32" alt="excel logo" />
   <img width="12" />
-  <a href="https://learn.microsoft.com/en-us/aspnet/core" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="32" alt="dotnetcore logo" />
-    <img width="12" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/sql" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="32" alt="microsoftsqlserver logo" />
-    <img width="12" />
-  </a>
-  <a href="https://dev.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql logo" />
-    <img width="12" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" height="32" alt="dotnet logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="32" alt="dotnetcore logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="32" alt="microsoftsqlserver logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="mongodb logo"  />
   <img width="12" />
