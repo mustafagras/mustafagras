@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌍 Based in Istanbul,Turkey <br>📚 I'm currently learning NextJS, React and React Native<br>👨🏻‍💻 I'm currently working on 📌 ESET | Türkiye <br>✉️ Contact me at <a href="(mustafagras@gmail.com">mustafagras@gmail.com</a></p>
+<p align="left">🌍 Based in Istanbul,Türkiye <br> I'm working in Backend, Frontend and Mobile App Development <br>📚 I'm currently learning Data Science, Data Visualization, Big Data, Data Mining, Deep Learning and Machine Learning <br>👨🏻‍💻 I'm currently working on 📌 ESET | Türkiye <br>✉️ Contact me at <a href="(mustafagras@gmail.com">mustafagras@gmail.com</a></p>
 
 ###
 
