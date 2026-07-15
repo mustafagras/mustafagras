@@ -197,7 +197,7 @@
 <table>
 <tr>
 <td>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mustafagras&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00F5D4&icon_color=BD00FF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats"/>
+  <img height="180" src="https://raw.githubusercontent.com/mustafagras/mustafagras/main/profile-summary-card-output/3-stats.svg" alt="GitHub Stats"/>
 </td>
 <td>
   <img height="180" src="https://streak-stats.demolab.com?user=mustafagras&hide_border=true&background=0D1117&stroke=00F5D4&ring=BD00FF&fire=39FF14&currStreakLabel=00F5D4&sideLabels=C9D1D9&dates=8B949E&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
@@ -205,7 +205,7 @@
 </tr>
 </table>
 
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafagras&layout=donut&langs_count=10&hide_border=true&title_color=00F5D4&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages"/>
+<img height="195" src="https://raw.githubusercontent.com/mustafagras/mustafagras/main/profile-summary-card-output/2-most-commit-language.svg" alt="Top Languages"/>
 
 <br/><br/>
 
